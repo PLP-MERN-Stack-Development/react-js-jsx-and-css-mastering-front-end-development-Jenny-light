@@ -20,7 +20,7 @@ A modern, responsive React application built with Vite, Tailwind CSS, and React 
 
 ## 🚀 Live Demo
 
-[View Live Demo](#)
+[View Live Demo](https://startling-stroopwafel-ed3bf2.netlify.app/)
 
 ## 📸 Screenshots
 
