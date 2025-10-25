@@ -25,7 +25,7 @@ A modern, responsive React application built with Vite, Tailwind CSS, and React 
 ## 📸 Screenshots
 
 ### Home Page
-###Task Manager
+### Task Manager
 ### Users Directory
 ### Dark Mode
 
