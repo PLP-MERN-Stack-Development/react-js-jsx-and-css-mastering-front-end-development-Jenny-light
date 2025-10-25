@@ -25,19 +25,9 @@ A modern, responsive React application built with Vite, Tailwind CSS, and React 
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](<img width="1611" height="934" alt="Screenshot 2025-10-25 223801" src="https://github.com/user-attachments/assets/fae12e90-b68d-4558-8861-41ed6e0de7d1" />)
-
-### Task Manager
-![Task Manager](<img width="1586" height="909" alt="Screenshot 2025-10-25 223827" src="https://github.com/user-attachments/assets/30a343f8-517f-446f-9e43-5d4bb974b760" />
-)
-
+###Task Manager
 ### Users Directory
-![Users Directory](<img width="1717" height="916" alt="Screenshot 2025-10-25 224347" src="https://github.com/user-attachments/assets/0628905d-b61a-4296-b3f5-a82f602d9d53" />
-)
-
 ### Dark Mode
-![Dark Mode](<img width="1734" height="924" alt="Screenshot 2025-10-25 223926" src="https://github.com/user-attachments/assets/e0e9c2ac-cc9e-41c1-9f3c-49774340ae8c" />
-)
 
 ## 🛠️ Technologies Used
 
@@ -110,6 +100,7 @@ my-task-app/
 ├── package.json
 ├── tailwind.config.js
 ├── vite.config.js
+└── images                     # Screenshots of the app
 └── README.md
 ```
 
