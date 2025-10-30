@@ -302,8 +302,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/Jenny-light)
-- LinkedIn: [Your Name](www.linkedin.com/in/jenniferomoregie)
+- GitHub: https://github.com/Jenny-light
+- LinkedIn: www.linkedin.com/in/jenniferomoregie
 - Email: jennylightomoregie@gmail.com
 
 ## 🙏 Acknowledgments
